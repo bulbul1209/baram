@@ -1,4 +1,4 @@
-# # #8qarQ
+#8qarQ
 
 import keyboard
 import mouse
@@ -112,8 +112,5 @@ if __name__ == "__main__":
                 time.sleep(0.02)                
                 keyboard.press_and_release(',')
 
-
-
-
-
+#8qarQ
 
